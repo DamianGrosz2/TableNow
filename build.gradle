@@ -1,0 +1,71 @@
+plugins {
+    id 'org.springframework.boot' version '2.6.7'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'java'
+    id "com.github.node-gradle.node" version "3.0.1"
+}
+
+gradle.startParameter.showStacktrace = ShowStacktrace.ALWAYS
+
+group = 'coolsten.reservation'
+version = '1.0.0'
+sourceCompatibility = '17'
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+
+repositories {
+    mavenCentral()
+}
+
+node {
+    version = '18.2.0'
+    download = true
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src/main/java'
+        }
+        resources {
+            srcDir 'src/main/resources'
+        }
+    }
+    test {
+        java {
+            srcDir 'src/test/java'
+        }
+        resources {
+            'src/test/resources'
+        }
+    }
+}
+
+processResources {
+    duplicatesStrategy = DuplicatesStrategy.INCLUDE
+}
+
+test {
+    defaultCharacterEncoding = 'UTF-8'
+    useJUnitPlatform()
+}
+
+task buildReactApp(type: NodeTask, dependsOn: 'npmInstall') {
+    script = project.file('node_modules/webpack/bin/webpack.js')
+    args = [
+            '--mode', 'development',
+            '--entry', './src/main/webapp/javascript/main.jsx',
+            '-o', './src/main/resources/static/dist'
+    ]
+}
+
+processResources.dependsOn 'buildReactApp'
+clean.delete << file('node_modules')
+clean.delete << file('src/main/resources/static/dist')

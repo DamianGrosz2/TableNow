@@ -1,0 +1,1019 @@
+[
+  {
+    "id":1,
+    "price":4,
+    "latitude":48.177370,
+    "longitude":11.556520,
+    "address": "Am Olympiapark 1/BMW Welt 80809 München",
+    "name":"EssZimmer",
+    "description":"Im Restaurant EssZimmer in München kann man sich entspannt dem Genuss der Küche von Bobby Bräuer, der ausgesuchten Weinbegleitung von Sommelier Domenico Durante und dem hervorragenden Service des gesamten Teams hingeben. Das EssZimmer mit europäisch modern interpretierter Küche befindet sich im dritten Obergeschoss der BMW Welt. Warme Farben, dunkles Leder und edle Hölzer geben dem Restaurant eine angenehme Atmosphäre. Abgerundet wird das Geschmackserlebnis für alle Sinne durch die Weinempfehlungen und einem erstklassigen Service. Das Restaurant bietet Platz für 45 Personen. Gäste können nach dem Essen einen kostenlosen Chauffeur-Service für sich und ihre Gäste innerhalb des Münchner Stadtgebiets in Anspruch nehmen. Mit dem eigenen Auto können Sie natürlich gratis die BMW Welt-Tiefgarage nutzen und mit dem Aufzug C direkt in das Restaurant hochfahren. Es gibt drei Menüs, ein vegetarisches sowie zwei Fisch- und Fleisch-Menüs mit vier bis acht Gängen.",
+    "stars":4,
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/d/3/csm_ESSZI_fot_restoin2_16-11_9442b304b7.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/1/a/csm_ESSZI_fot_team_16-11_1d22d01d75.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/d/3/csm_ESSZI_fot_restoin2_16-11_9442b304b7.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/1/a/csm_ESSZI_fot_team_16-11_1d22d01d75.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.esszimmer-muenchen.de"
+  },
+  {
+    "id":2,
+    "price":3,
+    "latitude":48.138380,
+    "longitude":11.577350,
+    "address": "Dienerstr. 14 80331 München",
+    "name":"Alois",
+    "description":"Das Alois versteht sich als zeitgemäßes Fine Dining Restaurant mit leichter, zeitgemäßer Produktküche, die in ungezwungener Atmosphäre präsentiert wird. Entspannter Genuss in einem Ambiente, das mühelos Gelassenheit und Anspruch verbindet. Aus dem exzellent bestückten Weinkeller des Delikatessenhauses kommen auch die herrlichen Weine, die Julien Morlat empfiehlt. Er kann dabei auf über 800 Positionen zurückgreifen, und sorgt mit großer Stilsicherheit für immer wieder überraschende Momente, die einen Besuch im Alois besonders machen. Das Restaurant Alois wurde für seine kulinarische Leistung unter der Leitung von Küchenchef Christoph Kunz bereits in vielen renommierten Gastronomieführern hoch bewertet. Nach dessen Weggang im April 2022 ist die Wiedereröffnung für den Herbst 2022 angekündigt worden.",
+    "stars":4,
+    "type":"ITALIAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/b/8/csm_DALL_fot_food_18-09_180d38a924.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/2/6/csm_DALL_fot_food2_18-09_4e43d51f90.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/2/7/csm_DALL_fot_restout_13-05_7b38c0645a.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.dallmayr.de/alois"
+  },
+  {
+    "id":3,
+    "price":4,
+    "latitude":48.140340,
+    "longitude":11.573730,
+    "address": "Promenadeplatz 2-6 80333 München",
+    "name":"Atelier",
+    "description": "Die intime Atmosphäre des Restaurants, die der renommierte belgische Kunsthändler Axel Vervoordt mit einem luxuriös-schlichten Design geschaffen hat, verbreitet das spannende Flair eines Künstlerateliers. Das ganze Ensemble wird abgerundet mit der Aperitif-Bar hinter einer von Dirk Vander Eecken gestalteten mobilen Wand. SeitNovember 2021 hat das Restaurant unter der Küchenleitung des zuvor mit zwei Sternen ausgezeichneten Anton Gschwendtner wieder geöffnet.",
+    "stars":4,
+    "type":"JAPANESE",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/6/7/csm_Sternerestaurant_Atelier_34d05a2852.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/4/3/csm_BAYH_fot_restout_15-06_eda6eb9713.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/6/7/csm_Sternerestaurant_Atelier_34d05a2852.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/atelier.html"
+  },
+  {
+    "id":4,
+    "price":2,
+    "latitude":48.139280,
+    "longitude":11.574710,
+    "address": "Maffeistr. 3a 80333 München",
+    "name":"Les Deux",
+    "description": "Die intime Atmosphäre des Restaurants, die der renommierte belgische Kunsthändler Axel Vervoordt mit einem luxuriös-schlichten Design geschaffen hat, verbreitet das spannende Flair eines Künstlerateliers. Das ganze Ensemble wird abgerundet mit der Aperitif-Bar hinter einer von Dirk Vander Eecken gestalteten mobilen Wand. SeitNovember 2021 hat das Restaurant unter der Küchenleitung des zuvor mit zwei Sternen ausgezeichneten Anton Gschwendtner wieder geöffnet.",
+    "stars":4,
+    "type":"VIETNAMESE",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/f/c/csm_LDEU_fot_food2_14-02_a811f9a0de.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/9/8/csm_LDEU_fot_food3_14-02_8e6f4a7a82.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/d/2/csm_LDEU_fotkl_restoin_22-03_9cdc3aba11.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://lesdeux-muc.de/"
+  },
+  {
+    "id":5,
+    "price":1,
+    "latitude":48.159270,
+    "longitude":11.588380,
+    "address": "Werneckstr. 11 80802 München",
+    "name":"Werneckhof",
+    "stars":4,
+    "description": "Keine leichte Entscheidung war der heutige Entschluss der Eigentümer der Geisel Privathotels, das 2-Sterne-Restaurant „Werneckhof by Geisel“ final schließen zu müssen. Wie viele Hoteliers und Gastronomen führen die Eigentümer des Hotel- und Restaurantverbundes, mit allen Anstrengungen ihr Unternehmen durch die momentane Corona Krise.„Abstandsregelungen und andere Hygieneauflagen lassen es in so einem kleinen Restaurant nicht zu, einen exzellenten und gewohnten Service für unsere Gäste zu gewährleisten“, so Michael Geisel und erläutert:„ Da es leider für uns alle nicht absehbar ist, wann eine für uns gewohnte Normalität wieder zurückkehren wird, haben wir uns schweren Herzens dazu entscheiden müssen, den Betrieb im Werneckhof by Geisel, mit sofortiger Wirkung endgültig zu schließen.“",
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2022/02/24/b42caebbdbe44d9c8e11c660e85b4516_Sigi_Schelling_12_21_218.jpg",
+      "https://www.sternklasse.de/wp-content/uploads/2016/02/30-Geisels-Werneckhof-M%C3%9CNCHEN-STERNKLASSE-1.jpg",
+      "https://muenchen.mrscity.de/wp-content/uploads/sites/3/2021/09/Sigi_Schelling_112792lowres.jpeg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://werneckhof-schelling.de/"
+  },
+  {
+    "id":6,
+    "price":2,
+    "latitude":48.151720,
+    "longitude":11.577990,
+    "address": "Amalienstr. 89 80799 München",
+    "name":"Sparkling Bistro",
+    "stars":3,
+    "description": "The attractive, friendly bistro is tucked away in the Amalienpassage, but it's worth searching for! It is run with dedication and a personal touch, an approach that is also reflected in the produce- and market-oriented cuisine: in the evening it is served in the guise of an ambitious Bistro Menu. The wine recommendations are spot on.",
+    "type":"INDIAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/62cf71b1c3844e82b0c9e9f0237f2818?width=1000",
+      "https://res.cloudinary.com/tf-lab/image/upload/restaurant/3d30ec08-619b-49ac-acf6-91adc6a273cb/ec6c7b1f-92e9-4c95-8bf8-fec48d46354e.jpg",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2017/10/innen-1000x667.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.restaurantsparklingbistro.com/"
+  },
+  {
+    "id":7,
+    "price":2,
+    "latitude":48.134430,
+    "longitude":11.575960,
+    "address": "Frauenstr. 4 80469 München",
+    "name":"Mural",
+    "stars":4,
+    "description": "Refined dishes prepared with locally-sourced ingredients in an industrial-chic restaurant.",
+    "type":"CHINESE",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/2/f/csm_TIANM_fot_food_22-02_024d79ff6f.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/9/b/csm_TIANM_fot_petersw_22-02_4e10b19a35.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/4/c/csm_TIANM_fot_restoin_22-02_b8b4ded330.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://muralrestaurant.de/"
+  },
+  {
+    "id":8,
+    "price":4,
+    "latitude":48.139110,
+    "longitude":11.581700,
+    "address": "Maximilianstr. 17 80539 München",
+    "name":"Schwarzreiter",
+    "stars":5,
+    "description": "Fünf individuell gestaltbare Räume stehen im Schwarzreiter für private Feste wie Hochzeiten, Geburtstage, Jubiläen aber auch zum Business Frühstück, Ladies Lunch oder exklusivem fine dining zur Verfügung.: Weitere Informationen",
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/8/2/csm_20190908-Hotel_Vier_Jahreszeiten_Kempinski_Muenchen_Schwarzreiter_Restaurant_Shrimp_bbac051958.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/c/0/csm_20190908_Schwarzreiter_Tagesbar5_494e241ab4.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/a/c/csm_20190908_Schwarzreiter2_be692f8a49.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.schwarzreiter-muenchen.de/"
+  },
+  {
+    "id":9,
+    "price":4,
+    "latitude":48.137611,
+    "longitude":11.577390,
+    "address": "Burgstr. 5 80331 München",
+    "name":"Tohru in der Schreiberei",
+    "stars":5,
+    "description": "Teamgefühl. Produktvielfalt. Nachhaltigkeit. Qualität. Kreativität. Keine Kompromisse, um allen Gästen ein einzigartiges Festmahl zu bereiten. Natürlicher Service zum Wohlfühlen. So könnte man versuchen, die Philosophie von Tohru in der Schreiberei mit Worten zu beschreiben. Besser ist es allerdings, diese persönlich zu erleben.",
+    "type":"JAPANESE",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/4/4/csm_REHRuecken_Koji_gebeizt_Ragout_Anchovis_Douglasie_Lauchherz_d9c3446e7a.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/6/b/csm_SEEFORELLE_Bete_Yuzu_Wasabi_Tohru_in_der_Schreiberei_2_c54d387360.jpg",
+      "https://www.restaurant-ranglisten.de/typo3temp/assets/_processed_/9/3/csm_Interior_Tohru_in_der_Schreiberei_1_903907ee14.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://schreiberei-muc.de/"
+  },
+  {
+    "id":10,
+    "price":3,
+    "latitude":48.142150,
+    "longitude":11.614070,
+    "address": "Mühlbaurstr. 36 81677 München",
+    "name":"Acquarello",
+    "stars":5,
+    "description": "Das Acquarello und Mario Gamba sind ein und dasselbe. Das eine gibt es nicht ohne das andere. Seine „ Cucina del Sole“ ist weltberühmt und für viele zählt er zu den besten italienischen Restaurants außerhalb von Italiens. Über sein Catering hat er schon viele Prominente bekocht u.a. Elton John und Madonna. Mario Gamba und sein Team setzen auf Genuss mit Herz und praktizieren ein wenig die typisch italienische Kumpel-Gastronomie. Die Karte führt Gerichte mit klassischem und marktfrischem Schwerpunkt.",
+    "type":"ITALIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://biancas-blog.de/wp-content/uploads/2013/11/fisch-mit-kartoffelecke-2-e1447061151142.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0b/05/5d/e4/acquarello-interior.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/1c/cc/1b/acquarello.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.acquarello.com/"
+  },
+  {
+    "id":11,
+    "price":4,
+    "latitude":48.140600,
+    "longitude":11.574630,
+    "address": "Kardinal-Faulhaber-Str. 10 80333 München",
+    "name":"Pageou",
+    "stars":3,
+    "description": "»Pageou«. Das ist das Restaurant von Ali Güngörmüş [Le Canard, Hamburg] in den Fünf Höfen in München. Aus einfachen, guten Produkten das Beste zu machen, ist dabei sein Leitgedanke, offen, unaufgeregt und einladend sind seine neuen Räume. »Ich will, dass meine Gäste die Gerichte verstehen«, sagt der Sterne- und TV-Koch im Interview, und hofft, dass Sie obendrein Lust auf mehr mitbringen: auf Erlebnisse für Ihren feinen Gaumen, auf kulinarische Abenteuer. Lassen Sie sich überraschen - Ali Güngörmüş und sein Team freuen sich auf Ihren Besuch!",
+    "type":"GERMAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.pageou.de/global/bilder/slider_karte/Pageou_Karte_01.jpg?m=1415725470",
+      "https://media-cdn.tripadvisor.com/media/photo-s/1b/5a/02/d2/dorade-vom-grill-mit.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.2357819/1200x675?v=1520389995"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.pageou.de/de/"
+  },
+  {
+    "id":12,
+    "price":4,
+    "latitude":48.144119,
+    "longitude":11.585940,
+    "address": "Prinzregentenstraße 1, 80538 München",
+    "name":"The Goldene Bar",
+    "stars":3,
+    "description": "The Goldene Bar at the Haus der Kunst museum is lovely inside and out, but particularly glorious in summer, when the terrace enjoys truly golden sundowner rays, as well as the occasional surfer heading up from the Eisbachwelle for a beer. ",
+    "type":"BAR",
+    "NoSeats":3,
+    "pictures":[
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2020/02/goldene-bar-9-1000x667.jpg",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2020/02/goldene-bar-9-1000x667.jpg",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2020/02/goldene-bar-9-1000x667.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.goldenebar.de/"
+  },
+  {
+    "id":13,
+    "price":1,
+    "latitude":48.129009,
+    "longitude":11.576500,
+    "address": "Baaderstraße 68, 80469 München",
+    "name":"Zephyr Bar",
+    "stars":4,
+    "description": "In case you haven’t heard, German gin is a big deal these days, and Zephyr has a top selection, ranging from the local Duke Munich Dry Gin to Monkey 47 Schwarzwald, which boasts a whopping 47 infused botanicals from Germany’s Black Forest",
+    "type":"BAR",
+    "NoSeats":3,
+    "pictures":[
+      "https://image.arrivalguides.com/x/00/4b881b63a2c33d8caac77ff809c87a3b.jpg",
+      "https://liquidmarket.bar/v2/wp-content/uploads/2021/07/zephyr-4.jpg",
+      "https://australianbartender.com.au/wp-content/uploads/2017/02/Zephyr-2.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"http://www.zephyr-bar.de/"
+  },
+  {
+    "id":14,
+    "price":1,
+    "latitude":48.133511,
+    "longitude":11.574000,
+    "address": "Blumenstraße 7, 80331 München",
+    "name":"Bürgerhaus Glockenbach Werkstatt",
+    "stars":1,
+    "description": "If you fancy combining drinks with some live music or provocative ideas, check out the programme at Glockenbachwerkstatt, an exemplary community centre, crèche and kindergarten by day and one of the most interesting Munich hotspots by night. The café and bar space hosts events almost every evening, from poetry slams to blues nights to roundtables on gender marketing. ",
+    "type":"BAR",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.kjr-m.de/wp-content/uploads/2020/05/csm_glocke_IMG_5504_9bcb53373f.jpg",
+      "https://media.timeout.com/images/104681532/750/422/image.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.989382/1200x675?v=1528167556"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.glockenbachwerkstatt.de/"
+  },
+  {
+    "id":15,
+    "price":3,
+    "latitude":48.132940,
+    "longitude":11.573090,
+    "address": "Blumenstraße 15, 80331 München",
+    "name":"The High",
+    "stars":3,
+    "description": "Another recent addition to the Munich bar scene, The High has won a crowd of loyalists with its hip-hop beats, casual yet connoisseur crew and top-quality cocktails.",
+    "type":"BAR",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.sueddeutsche.de/image/sz.1.3028127/704x396?v=1518664916",
+      "https://www.sueddeutsche.de/image/sz.1.4577047/704x396?v=1574324501",
+      "https://www.in-muenchen.de/bilder/2016/09/05/6723189/1390913650-the-high-bar-muenchen-X1DHAIVK8ec.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"http://www.drinkourballs.de/"
+  },
+  {
+    "id":16,
+    "price":1,
+    "latitude":48.134050,
+    "longitude":11.575230,
+    "address": "Utzschneiderstraße 4, 80469 München",
+    "name":"Bar Garçon",
+    "stars":4,
+    "description": "It’s strictly stirred, not shaken at Bar Garçon, a neat little newcomer between Gärtnerplatz and Viktualienmarkt. Proprietor Mario trained as an architect and has brought his creative flair to much of the bar’s pared-down interior, including building the marble and wood bar.",
+    "type":"BAR",
+    "NoSeats":2,
+    "pictures":[
+      "https://media-cdn.sueddeutsche.de/image/sz.1.2939842/640x360?v=1519172961000",
+      "https://media-cdn.sueddeutsche.de/image/sz.1.2891609/640x360?v=1519262240000",
+      "https://i0.wp.com/twoinarow.com/wp-content/uploads/2016/07/bar-garcon-2.jpg?resize=704%2C469"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://bar-garcon.de/"
+  },
+  {
+    "id":17,
+    "price":2,
+    "latitude":48.130450,
+    "longitude":11.567110,
+    "address": "Pestalozzistraße 22, 80469 München",
+    "name":"Zum Wolf",
+    "stars":4,
+    "description": "Taking inspiration from ‘classic American cocktail bars and Southern-style juke joints’, Zum Wolf is more speakeasy than Bavarian beer cellar. Lit in a red glow, this modest bar is a popular spot for revellers in Glockenbach, a trendy quarter home to a sizeable LGBTQ+ community.",
+    "type":"BAR",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.sueddeutsche.de/image/sz.1.4073280/704x396?v=1532702309",
+      "https://cdn.11880.com/zum-wolf_25291272_mw640h480_muenchen.jpg",
+      "https://i.pinimg.com/originals/18/34/ff/1834ff5ae9e6972f442684ffd3be17e9.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"http://zumwolf.com/"
+  },
+  {
+    "id":18,
+    "price":1,
+    "latitude":48.151930,
+    "longitude":11.592230,
+    "address": "Englischer Garten 3, 80538 München",
+    "name":"Biergarten am Chinesischen Turm",
+    "stars":5,
+    "description": "The thought of being surrounded by 7,000 other guests may seem daunting, but it makes for one hell of an atmosphere. Plonked slap bang in the centre of the Englischer Garten, four square kilometres of rolling green hills and trees, Chinesischer Turm invites everybody to drink and dine in their ultimate beer garden.",
+    "type":"BAR",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.englischer-garten-muenchen-infos.de/wp-content/uploads/2019/01/chinaturm-englischer-garten-muenchen.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.4056373/1200x675?v=1531688873",
+      "https://c8.alamy.com/compde/jjw81c/der-chinesischer-turm-biergarten-chinesischen-turm-im-englischen-garten-munchen-bayern-deutschland-jjw81c.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.chinaturm.de/"
+  },
+  {
+    "id":19,
+    "price":4,
+    "latitude":48.146760,
+    "longitude":11.563890,
+    "address": "Luisenstraße 33, 80333 München",
+    "name":"ELLA",
+    "stars":5,
+    "description": "‘Ella’ was the pet name Wassily Kandinsky gave to his friend and fellow artist Gabriele Münter, and this stylish ground-floor bar and restaurant in the Lenbachhaus Museum is the perfect spot for a pre-or post-Expressionism tipple. ",
+    "type":"BAR",
+    "NoSeats":2,
+    "pictures":[
+      "https://schaetzeausmeinerkueche.de/wp-content/uploads/2017/03/ELLA.jpg",
+      "https://media.cool-cities.com/ella002_pr_f.jpg?h=530",
+      "https://www.cube-magazin.de/media/image/cc/dd/2f/Kandinsky_15_700pixel.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://ella-lenbachhaus.com/"
+  },
+  {
+    "id":20,
+    "price":3,
+    "latitude":48.143500,
+    "longitude":11.551940,
+    "address": "Arnulfstraße 52, 80335 München",
+    "name":"Augustiner-Keller",
+    "stars":4,
+    "description": "Another Munich institution, the Augustiner-Keller has been pouring foaming ales since 1812 and continues to win numerous awards for its fine Bavarian tradition and cuisine. There’s outdoor seating for 5,000 beneath the garden’s glorious chestnut trees, and plenty of warm interior rooms for colder days, including the atmospheric, vaulted-ceiling ‘keller’.",
+    "type":"BAR",
+    "NoSeats":2,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/0e/34/fc/on-a-beautiful-day-everyone.jpg",
+      "https://www.muc.tips/media/k2/items/cache/6cd7000b5fdc149d15c15e2b49b0ac68_XL.jpg",
+      "https://www.augustinerkeller.de/Bilder_Augustiner/Bilder%202016%20Fotograf/Lagerkeller/image-thumb__149__auto_94e23bba0892feca5aac720bd368ffce/DSC01228.webp"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.augustinerkeller.de/de"
+  },
+  {
+    "id":21,
+    "price":3,
+    "latitude":48.197880,
+    "longitude":11.524250,
+    "address": "Feldmochinger Str. 226, 80995 Munich",
+    "name":"Indian Village",
+    "stars":5,
+    "description": "Traditional Indian flatbreads, spicy curries & meat grills rustled up in a warm space hung with art.",
+    "type":"INDIAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/bd/70/ac/indian-village.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/06/58/15/b2/indian-village.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/11/bd/70/8d/indian-village.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.indian-village.de/"
+  },
+  {
+    "id":22,
+    "price":2,
+    "latitude":48.132950,
+    "longitude":11.584220,
+    "address": "Zweibruckenstrasse 15, 80331 Munich",
+    "name":"Indian Mango",
+    "stars":3,
+    "description": "Bright, informal cafe with sidewalk tables offering classic Indian dishes, including vegan fare.",
+    "type":"INDIAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/16/e5/8b/cd/indian-mango.jpg",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2017/12/483986_360046490732203_1868010240_n-600x338.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84swjJoNoF8EtUOoyO74MBKgCjfYklyKC4g&usqp=CAU"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"http://indian-mango.com/"
+  },
+  {
+    "id":23,
+    "price":2,
+    "latitude":48.151510,
+    "longitude":11.640630,
+    "address": "Ostpreußenstraße 45, 81927 München",
+    "name":"Amber Indian Restaurant",
+    "stars":3,
+    "description": "Bright curries, stuffed breads & tandoori dishes in a colorful space with a wide, leafy terrace.",
+    "type":"INDIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://amber-restaurant.de/wp-content/uploads/2021/07/amber-restaurant-07-2018-18-von-95.jpeg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/e7/73/ba/img-20170715-202848-largejpg.jpg",
+      "https://s.hdnux.com/photos/07/42/37/1976294/13/rawImage.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://amber-restaurant.de/"
+  },
+  {
+    "id":24,
+    "price":2,
+    "latitude":48.151740,
+    "longitude":11.619420,
+    "address": "Rosenkavalierpl. 15, 81925 München",
+    "name":"KimSang Panasia Cuisine",
+    "stars":3,
+    "description": "Easygoing venture with a modern interior & a covered patio, for sushi, sake & Vietnamese cuisine.",
+    "type":"VIETNAMESE",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.kimsang.de/wp-content/uploads/2018/04/sushi-nigiri.jpg",
+      "https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/12586078-19c2-4273-925f-5d4e29cb20e9/8cab63ae-4c64-413b-9f17-52ecb96ea666.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.2990515/704x396?v=1518751227"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.kimsang.de/"
+  },
+  {
+    "id":25,
+    "price":1,
+    "latitude":48.137910,
+    "longitude":11.560870,
+    "address": "Schillerstr. 16, 80336 Munich",
+    "name":"Vietnam Thai China Garden Restaurant",
+    "stars":1,
+    "description": "Modest venue serving classic Chinese, Thai & Vietnamese fare including noodles, soups & meat dishes.",
+    "type":"CHINESE",
+    "NoSeats":1,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/03/37/61/d5/vietnam-thai-garden.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0e/9f/26/ff/vietnam-thai-china-garden.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/09/44/dd/1c/vietnam-thai-garden.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://asiamuenchen.wixsite.com/asiaschillerstrasse"
+  },
+
+  {
+    "id":26,
+    "price":3,
+    "latitude":48.126810,
+    "longitude":11.569840,
+    "address":"Klenzestraße 72, 80469 München",
+    "name":"Brasserie Colette Tim Raue",
+    "description":"Französisches Restaurant in modern-elegantem Ambiente und Filialen in Berlin und Konstanz.",
+    "stars":4.5,
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/0c/b0/fd/df/brasserie-colette-tim.jpg",
+      "https://www.urbanite.net/wp-content/uploads/2018/09/brasserie-colette-tim-raue-berlin-1-scaled.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://brasseriecolette.de/"
+  },
+
+  {
+    "id":27,
+    "price":2,
+    "latitude":48.140570,
+    "longitude":11.608270,
+    "address":"Mühlbaurstraße 5, 81677 München",
+    "name":"Hippocampus",
+    "description":"Kunstvoll angerichtete Speisen wie Ossobuco, Tortellini und Risotto im eleganten Speiseraum oder grünen Garten.",
+    "stars":4.3,
+    "type":"ITALIAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.hippocampus-restaurant.de/wp-content/uploads/layerslider/Restaurant/back_restaurant_1160x460.jpg",
+      "https://www.hippocampus-restaurant.de/wp-content/uploads/2015/08/gallery91.jpg",
+      "https://www.hippocampus-restaurant.de/wp-content/uploads/2015/08/gallery21.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.hippocampus-restaurant.de/"
+  },
+
+  {
+    "id":28,
+    "price":1,
+    "latitude":48.136200,
+    "longitude":11.582920,
+    "address":"Stollbergstraße 2, 80539 München",
+    "name":"Le Stollberg",
+    "description":"Französisch inspirierte Küche, speziell Innereien und saisonale Speisen, in edlem Ambiente mit Terrasse.",
+    "stars":4.1,
+    "type":"GERMAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://www.mux.de/images/1500x1200z/object/43/1550050443/le-stollberg-1.jpg",
+      "https://www.gusto-online.de/assets/thumbs/750x480/548_web_lestollberg_1.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://lestollberg.de/"
+  },
+
+  {
+    "id":29,
+    "price":1,
+    "latitude":48.134310,
+    "longitude":11.573740,
+    "address":"Sebastianspl. 9, 80331 München",
+    "name":"Blauer Bock",
+    "description":"Originell zubereitete Gerichte mit europäischen Einflüssen in einem stilvollen, blau gehaltenen Lokal.",
+    "stars":3.9,
+    "type":"INDIAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.sueddeutsche.de/image/sz.1.5432361/1200x675?v=1633531556",
+      "https://media-cdn.tripadvisor.com/media/photo-s/0f/08/3a/b0/blick-auf-die-tische.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"http://www.restaurant-blauerbock.de/"
+  },
+
+  {
+    "id":30,
+    "price":1,
+    "latitude":48.1153761,
+    "longitude":11.5827529,
+    "address":"Werinherstraße 15, 81541 München",
+    "name":"Der Dantler",
+    "description":"Französisch inspirierte Küche, speziell Innereien und saisonale Speisen, in edlem Ambiente mit Terrasse.",
+    "stars":2.4,
+    "type":"CHINESE",
+    "NoSeats":2,
+    "pictures":[
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2018/06/innen_credit-1024x683.jpg",
+      "https://foodle.pro/meals-images/2018-06-01-09-58-02-27cc8c6ecc3972400572600744ae9668.jpg",
+      "https://www.maenner.media/downloads/64830/download/28_gastronomie_wein_Der%20Dantler.jpg?cb=f447795a4dfee7143ecb984b599764e1"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://derdantler.de/"
+  },
+
+  {
+    "id":31,
+    "price":4,
+    "latitude":48.137291,
+    "longitude":11.580760,
+    "address":"Neuturmstraße 1, 80331 München",
+    "name":"Matsuhisa",
+    "description":"Sushi und kreative Meeresfrüchtegerichte mit peruanischer Note in einem eleganten, modernen Hotelrestaurant.",
+    "stars":3.3,
+    "type":"JAPANESE",
+    "NoSeats":2,
+    "pictures":[
+      "https://photos.mandarinoriental.com/is/image/MandarinOriental/munich-2016-fine-dining-matsuhisa-sushi-bar-01?wid=1080&hei=720&fmt=jpeg&qlt=75,0&op_sharpen=0&resMode=sharp2&op_usm=0.8,0.8,5,0&iccEmbed=0&printRes=72&fit=crop&qlt=45,0",
+      "https://www.foodhunter.de/wp-content/uploads/2017/04/Matsuhisa-M%C3%BCnchen-700x425.jpg",
+      "https://biancas-blog.de/wp-content/uploads/2015/09/Matsuhia-Munich-Mandarin-Oriental-Restaurant-Bar-5a-976x543.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.mandarinoriental.com/munich/altstadt/fine-dining/restaurants/japanese-peruvian-cuisine/matsuhisa-munich?htl=MOMUC&kw=MOMUC_matsuhisa&eng=google&src=local"
+  },
+
+  {
+    "id":32,
+    "price":4,
+    "latitude":48.355630,
+    "longitude":11.788720,
+    "address":"Terminalstraße Mitte 20, 85356 München-Flughafen",
+    "name":"Mountain Hub",
+    "description":"Die Mountain Hub Restaurants sind das neue kulinarische Herzstück des Hilton Munich Airport. Im Social Dining Restaurant und im Gourmet Restaurant mit der exklusiven Bar zelebrieren wir die große Vielfalt der modernen alpinen Küche. Wir reduzieren sie auf ihre Essenz, präsentieren sie authentisch, pur und unverfälscht und geben ihr stets eine ganz besondere Finesse mit auf den Weg.",
+    "stars":4.7,
+    "type":"GERMAN",
+    "NoSeats": 3,
+    "pictures":[
+      "https://mountainhub.de/wp-content/uploads/2020/09/MountainHub_Buffet_2043-3.jpg",
+      "https://mountainhub.de/wp-content/uploads/2020/09/MountainHub_DiningA_2811-3.jpg",
+      "https://ait-xia-dialog.de/storage/2020/11/01-11-800x533.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://mountainhub.de/"
+  },
+  {
+    "id":33,
+    "price":2,
+    "latitude":48.135080,
+    "longitude":11.535260,
+    "address":"Kazmairstraße 58, 80339 München",
+    "name":"Rüen Thai",
+    "description":"Gehobenes Thairestaurant, spezialisiert auf Gerichte aus Südthailand, klassisches Dekor und globale Weinkarte.",
+    "stars":2.9,
+    "type":"INDIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.tz.de/bilder/2013/05/01/2882927/918346285-thai_20130501-175812-1Se9.jpg",
+      "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cbb568516226464ba27d69dae29a2f87?width=500&sharp=1"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://rueen-thai.de/"
+  },
+  {
+    "id":34,
+    "price":4,
+    "latitude":48.169840,
+    "longitude":11.588350,
+    "address":"Johann-Fichte-Straße 7, 80805 München",
+    "name":"Tantris Maison Culinaire",
+    "description":"Von Architekten entworfenes Edelrestaurant mit internationalen Speisen und großzügigem, stilvollem Ambiente.",
+    "stars":3.5,
+    "type":"GERMAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.br.de/radio/bayern2/sendungen/radiofeature/tantris-sandra-hoffmann-radiofeature-100~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=70404",
+      "https://www.hogapage.de/wp-content/uploads/sites/16/2020/06/Tantris-1200x675.jpg",
+      "https://www.falstaff.at/fileadmin/_processed_/4/7/csm_header-tantris-ero__ffnung-c-Kathrin-Koschitzki-2640_1caea8dbe1.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://tantris.de/"
+  },
+  {
+    "id":35,
+    "price":1,
+    "latitude":48.127770,
+    "longitude":11.554150,
+    "address":"Lindwurmstraße 48, 80337 München",
+    "name":"Ederer",
+    "description":" Das Restaurant EDERER ist meine neue kulinarische Heimat in München - ich würde mich freuen, wenn es auch Ihre würde.\nMit viel Liebe, Ausdauer und Freude haben wir in den letzten Monaten einen Ort geschaffen, an dem Genuss Zuhause sein soll. Meine Gerichte sind authentisch und ehrlich und wollen nichts sein, was sie nicht sind. Mir war es immer schon ein Anliegen, darauf zu achten, woher die Ware stammt, die ich für meine Gäste verarbeite. So setze ich auch im neuen EDERER stark auf regionale Erzeuger und Lieferanten. Mir ist nicht egal, wie ein Tier gehalten und geschlachtet wurde oder woher das Gemüse herkommt, das ich zubereite. ",
+    "stars":2.9,
+    "type":"GERMAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://restaurant-ederer.de/wp-content/uploads/2019/05/home_restaurant3.jpg",
+      "https://www.gusto-online.de/assets/images/restaurants/bayern/muenchen_ederer/web_ederer_1.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://restaurant-ederer.de/"
+  },
+  {
+    "id":36,
+    "price":4,
+    "latitude":48.1357227,
+    "longitude":11.5810375,
+    "address":"Tal 31, 80331 München",
+    "name":"Little London",
+    "description":"Gehobenes Steakhouse und Bar nach britischem Vorbild mit Cocktails und umfangreicher Weinkarte.",
+    "stars":4.2,
+    "type":"VIETNAMESE",
+    "NoSeats":2,
+    "pictures":[
+      "https://little-london.de/wp-content/uploads/2020/03/Little_London%C2%A92019MaierDominik_buerovongrau.de_3-Kopie-2.jpg",
+      "https://www.nachrichten-muenchen.com/wp-content/gallery/little-london-muenchen/Little-London-Bar-Grill-im-Tal-Muenchen-2-von-16.JPG"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://little-london.de/"
+  },
+  {
+    "id":37,
+    "price":2,
+    "latitude":48.155390,
+    "longitude":11.637120,
+    "address":"Wilhelm-Dieß-Weg 2, 81927 München",
+    "name":"Martinelli",
+    "description":"Elegant angerichtete italienische Verkostungsmenüs in einem schicken Restaurant mit Außenbereich.",
+    "stars":4.7,
+    "type":"ITALIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://www.delicious-stories.de/wp-content/uploads/2018/06/Martinelli_10-845x550.jpg",
+      "https://d6zktcp1soofu.cloudfront.net/ristorante-martinelli-11912/restaurant.iJubh_landscape.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.ristorantemartinelli.de/"
+  },
+  {
+    "id":38,
+    "price":3,
+    "latitude":48.133270,
+    "longitude":11.577210,
+    "address":"Rumfordstraße 14, 80469 München",
+    "name":"TiVu",
+    "description":"Modernes, minimalistisch eingerichtetes Lokal für klassische vietnamesische Küche wie Reisgerichte, Rollen und Nudeln.",
+    "stars":4.7,
+    "type":"VIETNAMESE",
+    "NoSeats":1,
+    "pictures":[
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2019/05/tivu-restaurant-8-1000x667.jpg",
+      "https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/280ae83e-d520-4937-b802-2602be80d94f/695ba3b1-f665-46cf-9d6c-e4ea95663c3e.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/17/4d/5c/1b/tivu-restaurant.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.tivu-restaurant.de/"
+  },
+  {
+    "id":39,
+    "price":2,
+    "latitude":48.154730,
+    "longitude":11.572160,
+    "address":"Neureutherstraße 15, 80799 München",
+    "name":"Pure Wine & Food",
+    "description":"Unsere Speisekarte wird von den Jahreszeiten geschrieben. Saisonküche definiert sich nicht über den Preis der Produkte, sondern über deren Qualität. Daran stellen wir höchste Ansprüche.\nMit Rücksicht auf die natürlichen Kreisläufe verarbeiten wir möglichst fair erzeugte Produkte. Unsere saisonalen Zutaten beziehen wir vorwiegend von regionalen Lieferanten oder von solchen, die unsere hohen Qualitätsansprüchen von frischen Lebensmitteln verstehen und selbst kompromisslos leben.",
+    "stars":4.4,
+    "type":"MEDITERRANEAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://pure-wine-food.de/wp-content/uploads/2020/12/Pure_40-1024x683.jpg",
+      "https://pure-wine-food.de/wp-content/uploads/2020/12/Pure_821-1024x683.jpg",
+      "https://pure-wine-food.de/wp-content/uploads/2020/12/Pure_580-1024x683.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://pure-wine-food.de/"
+  },
+  {
+    "id":40,
+    "price":2,
+    "latitude":48.145570,
+    "longitude":11.581830,
+    "address":"Schönfeldstraße 22, 80539 München",
+    "name":"Restaurant Halali",
+    "description":"Bayerische Saisongerichte, klassischer Speiseraum & Weinkarte, vorwiegend Weine aus Österreich & Frankreich.",
+    "stars":4.7,
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/1a/ad/01/13/gastraum.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.1563312/1200x675?v=1522460842"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.restaurant-halali.de/"
+  },
+  {
+    "id":41,
+    "price":3,
+    "latitude":48.131310,
+    "longitude":11.595920,
+    "address":"Steinstraße 42, 81667 München",
+    "name":"Vinaiolo",
+    "description":"Elegante Trattoria im Retrostil mit kreativen Antipasti, Pasta- und Hauptgerichten sowie umfassender Weinkarte.",
+    "stars":2.8,
+    "type":"ITALIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://resizer.otstatic.com/v2/photos/wide-huge/1/23592977.jpg",
+      "https://resizer.otstatic.com/v2/photos/wide-huge/1/23592978.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.vinaiolo.de"
+  },
+  {
+    "id":42,
+    "price":4,
+    "latitude":48.155500,
+    "longitude":11.613820,
+    "address":"Oberföhringer Str. 44, 81925 München",
+    "name":"Alba Trattoria",
+    "description":"Placeholder text",
+    "stars":4.8,
+    "type":"ITALIAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://kir-muenchen.de/wp-content/uploads/2020/11/6D0A0024_1_Mila-Pairan-Photography_300dpi.jpg",
+      "https://media01.stockfood.com/largepreviews/MzIwMDQ2OTc2/10324096-Alba-Trattoria-Restaurant-Muenchen.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.4076152/1200x675?v=1532966596"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://speisekartenweb.de/restaurants/m%C3%BCnchen/alba-trattoria-101716"
+  },
+  {
+    "id":43,
+    "price":1,
+    "latitude":48.137920,
+    "longitude":11.579690,
+    "address":"Platzl 1A, 80331 München",
+    "name":"Ayinger am Platzl",
+    "description":"Bayerisches Wirtshaus der Brauerei Ayinger mit typischen Gerichten, Bier und Personal in traditioneller Tracht.",
+    "stars":4.3,
+    "type":"GERMAN",
+    "NoSeats":1,
+    "pictures":[
+      "https://www.ayinger-am-platzl.de/fileadmin/_processed_/2/0/csm_Schanktresen_klein_7a9f629ffe.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/13/d4/cc/6b/jagdstubn.jpg",
+      "https://www.ayinger-am-platzl.de/fileadmin/_processed_/5/b/csm_ayingers_aussenansicht__1__b154273c40.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.ayinger-am-platzl.de/"
+  },
+  {
+    "id":44,
+    "price":3,
+    "latitude":48.157631,
+    "longitude":11.560970,
+    "address":"Georgenstraße 144, 80797 München",
+    "name":"Il Borgo",
+    "description":"Antipasti, Pasta, Fleisch und Fisch sowie italienischer Wein in einem schicken Gourmetlokal mit weißen Tischdecken.",
+    "stars":3.9,
+    "type":"ITALIAN",
+    "NoSeats":2,
+    "pictures":[
+      "https://il-borgo.de/wp-content/uploads/2020/06/IMG_4845-1024x683.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.4073583/704x396?v=1532714543"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://il-borgo.de/"
+  },
+  {
+    "id":45,
+    "price":4,
+    "latitude":48.143370,
+    "longitude":11.575510,
+    "address":"Wittelsbacherpl. 1, 80333 München",
+    "name":"KOI Restaurant",
+    "description":"Sushi und Sashimi sowie Grillfleisch und Nudelgerichte in einem gehobenen Restaurant mit Sommerterrasse.",
+    "stars":4.1,
+    "type":"JAPANESE",
+    "NoSeats":1,
+    "pictures":[
+      "https://munichurbanlifestyle.com/wp-content/uploads/2018/06/130807_Koi_Fensteransicht.jpg",
+      "https://www.ahgz.de/news/media/7/Besonde-Da-Ko-wur-im-St-ein-japanisch-Izaka-gestal-65550.jpeg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.koi-restaurant.de/"
+  },
+  {
+    "id":46,
+    "price":1,
+    "latitude":48.149500,
+    "longitude":11.560740,
+    "address":"Gabelsbergerstraße 85, 80333 München",
+    "name":"Kaito",
+    "description":"Japanisches Restaurant mit Sushi, Nudeln und Bier in rustikalem Ambiente mit Sichtmauerwerk.",
+    "stars":3.7,
+    "type":"JAPANESE",
+    "NoSeats":3,
+    "pictures":[
+      "https://francetoday.com/wp-content/uploads/2022/03/Four-Seasons-Kaito-63.jpg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/16/b7/fd/48/kaito-sushi-e-l-ambiente.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://de.kaito-restaurant.com/"
+  },
+  {
+    "id":47,
+    "price":3,
+    "latitude":48.141250,
+    "longitude":11.585070,
+    "address":"Seitzstraße 12, 80538 München",
+    "name":"Trattoria Seitz",
+    "description":"Das elegante, moderne Lokal mit roten Wänden und schwarzer Lederausstattung serviert Speisen aus Venetien.",
+    "stars":3.1,
+    "type":"ITALIAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://resizer.otstatic.com/v2/photos/wide-huge/1/24604700.jpg",
+      "https://res.cloudinary.com/tf-lab/image/upload/w_600,h_337,c_fill,g_auto:subject,q_auto,f_auto/restaurant/ca6b3086-1922-489a-b537-331087f92c67/acf4c2a1-a77f-49d1-9752-5fcdf8386fe2.jpg",
+      "https://www.deutschlandgourmet.info/bilder/gross/03617-restaurant-halali-muenchen.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.trattoriaseitz.com/"
+  },
+  {
+    "id":48,
+    "price":2,
+    "latitude":48.131610,
+    "longitude":11.566360,
+    "address":"Thalkirchner Str. 16, 80337 München",
+    "name":"Usagi",
+    "description":"Trendiges Restaurant mit japanischen Speisen und Grillgerichten sowie Wein, Cocktails und Sake.",
+    "stars":3.6,
+    "type":"BAR",
+    "NoSeats":1,
+    "pictures":[
+      "https://assets.website-files.com/5e77acc80a930f4fc2c80446/5ede87b9f702552952e97ffd_WhatsApp%20Image%202020-05-30%20at%2021.04.27%20(1).jpeg",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2016/08/dsc09042-e1470733732484-1000x656.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.usagi-bar.de/"
+  },
+
+  {
+    "id":49,
+    "price":4,
+    "latitude":48.133160,
+    "longitude":11.593080,
+    "address":"Innere Wiener Straße 18, 81667 München",
+    "name":"MUN Restaurant",
+    "description":"Sake und Degustationsmenüs mit einer Auswahl an Fisch und Sushi in einem renommierten, eleganten Restaurant.",
+    "stars":4.1,
+    "type":"CHINESE",
+    "NoSeats":2,
+    "pictures":[
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2017/11/dsc04825.jpg",
+      "https://www.sueddeutsche.de/image/sz.1.5043986/704x396?v=1600960310",
+      "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2017/11/mun-restaurant-c-david-koplin_9dk5744-1980.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://munrestaurant.de/"
+  },
+
+  {
+    "id":50,
+    "price":1,
+    "latitude":48.139750,
+    "longitude":11.562110,
+    "address":"Schützenstr. 11, 80335 München",
+    "name":"Vinothek by Geisel",
+    "description":"Restaurant und Weinkeller mit italienischer und bayrischer Küche mit traditioneller, dekorativer Einrichtung.",
+    "stars":4.6,
+    "type":"MEDITERRANEAN",
+    "NoSeats":3,
+    "pictures":[
+      "https://media-cdn.tripadvisor.com/media/photo-s/14/b6/9f/66/gastraum-vinothek.jpg",
+      "http://biancas-blog.de/wp-content/uploads/2018/08/Vinothek-by-Geisel-Weinbar-Muenchen-7.jpg",
+      "https://www.excelsior-hotel.de/wp-content/uploads/sites/4/2017/10/Thomas-Haberland-Excelsior-Vinothek-01.jpg"
+    ],
+    "occupiedTables":[],
+    "comments":[],
+    "URL":"https://www.excelsior-hotel.de/vinothek"
+  },
+  {
+      "id":51,
+      "price":4,
+      "latitude":48.113610,
+      "longitude":11.577640,
+      "address": "Zehentbauernstr. 20 81539 München",
+      "name":"Gabelspiel",
+      "stars":3,
+      "description": "Das gekonnte Spiel mit Aromen, Gewürzen, Texturen und regionalen Zutaten macht jeden Abend unvergesslich. Bei allen Kreationen bildet die französische Küche die Basis und wird durch gekonnte Kombinationen ergänzt. Dabei kommt der nachhaltigen und artgerechten Herkunft aller verwendeten Zutaten große Bedeutung zu. Aus diesem Grund beziehen wir einen Großteil unserer Produkte aus der Region",
+      "type":"GERMAN",
+      "NoSeats":1,
+      "pictures":[
+        "https://muenchen.mitvergnuegen.com/wp-content/uploads/sites/3/2017/02/dsc01000-680x453.jpg",
+        "https://kuechenreise.com/wp-content/uploads/2019/05/muenchen-gabelspiel01-1024x683.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/0e/d2/83/7b/herrliches-zwischengericht.jpg"
+      ],
+      "occupiedTables":[],
+      "comments":[],
+      "URL":"https://www.restaurant-gabelspiel.de"
+    }
+]
