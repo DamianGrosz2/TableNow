@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@200;400&display=swap");
+
+.Background-Rating{
+    width: 500px;
+    height: fit-content;
+  /*  background: #FDFDFD;*/
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.Background-Rating:hover{
+    box-shadow: 0 1px 14px rgba(24, 90, 219, 0.6);
+}
+.Rating-Content{
+    width: 500px;
+    height: 340px;
+}
+
+.TopRating-Section{
+    display: flex;
+    flex-direction: row;
+    margin-left: 22px;
+    padding-top: 22px;
+}
+
+.TitleTotal-Rating{
+    width: 80px;
+    height: 22px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #141414;
+}
+
+
+
+.Dot {
+    background-color: rgba(108, 100, 217, 1);
+    width: 4px;
+    height: 4px;
+    border-radius: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Rating-Folder{
+    display: flex;
+    margin-right: 6px;
+    box-sizing: border-box;
+    height: fit-content;
+    justify-content: flex-end;
+}
+
+.Rating-Star{
+    width: 21px;
+    height: 21px;
+}
+.Rating-txt{
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    color: rgba(108, 100, 217, 1);
+    text-align: right;
+    width: 30px;
+    height: 22px;
+    word-wrap: break-word;
+    margin-right: 3px;
+}
+.ReviewCount{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14.2969px;
+    margin-top: 2px;
+    margin-left: 10px;
+    line-height: 17px;
+}
+.Review-Section{
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+    margin-top: 22px;
+}

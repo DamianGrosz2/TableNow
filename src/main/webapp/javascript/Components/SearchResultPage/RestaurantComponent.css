@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+
+p {
+  margin: 0;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-row-vcenter-hend {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.flex-row-vcenter-hstart {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.div-Main {
+  padding: 0px 0px 21.37px 0px;
+  box-sizing: border-box;
+  border-radius: 3.97px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 1.59px 1.59px rgba(0, 0, 0, 0.25);
+  width: 305px;
+  height: 325px;
+  margin: 10px  12px 10px 12px;
+}
+
+.div-Main:hover{
+  box-shadow: 0 1px 14px rgba(24, 90, 219, 0.6);
+}
+
+.image {
+  object-fit: cover;
+  height: 188.21px;
+  margin-bottom: 16px;
+  width: 100%;
+  border-top-left-radius: 3.97px;
+  border-top-right-radius: 3.97px;
+}
+
+.group-10310 {
+  margin-bottom: 2px;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+.txt-Title {
+  font-size: 15.89px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(20, 20, 20, 1);
+  width: 221px;
+  height: 23px;
+  word-wrap: break-word;
+  margin-right: 3px;
+  padding-left: 15px;
+}
+
+.stars {
+  height: fit-content;
+}
+
+.txt-Rating {
+  font-size: 17.87px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(108, 100, 217, 1);
+  width: 31px;
+  height: 19px;
+  word-wrap: break-word;
+}
+
+.star-filled {
+  width: 16px;
+  height: 16px;
+}
+
+.txt-0110 {
+  font-size: 14.3px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(108, 108, 108, 1);
+  width: 269px;
+  height: 16px;
+  word-wrap: break-word;
+  margin-bottom: 10px;
+  padding-left: 15px;
+}
+
+.location-1 {
+  margin-bottom: 7px;
+  box-sizing: border-box;
+  width: fit-content;
+}
+
+.location {
+  width: 26px;
+  margin-right: 12px;
+  height: 100%;
+  padding-left: 15px;
+}
+
+.txt-location {
+  font-size: 14.3px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: rgba(108, 108, 108, 1);
+  width: 240px;
+  height: 23px;
+  word-wrap: break-word;
+}
+
+.price-tag {
+  width: 16px;
+  height: 16px;
+  float:left;
+  margin-right: 5px;
+}
+.price {
+  width: 150px;
+  height: 16px;
+  padding-left: 15px;
+}

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@200;400&display=swap");
+
+.Mid{
+    margin-left: 55px;
+    margin-top: 70px;
+}
+
+.txt-TopSearchResults{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.2969px;
+    line-height: 17px;
+    color: #6C6C6C;
+}
+
+.Right{
+    margin-right: 10px;
+    margin-top: 60px;
+}
+.SearchResultPage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.SearchResultPageCotainer{
+    width: 100%;
+    flex-wrap: wrap;
+}

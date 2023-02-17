@@ -1,0 +1,45 @@
+.Filters{
+    display: flex;
+    flex-direction: column;
+
+}
+.Filter{
+    width: 150px;
+    height: fit-content;
+    /*  background: #FDFDFD;*/
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.Filter:hover{
+    box-shadow: 0 1px 14px rgba(24, 90, 219, 0.6);
+}
+.Filter-Options{
+    display: flex;
+    flex-direction: column;
+}
+.Filter-Option{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.Filter-Title{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgba(20, 20, 20, 1);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.OptionName{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #6C6C6C;
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
